@@ -30,8 +30,9 @@ Depending on how you make them, art maps can teach us to see and use geospatial 
 
 This workshop's tutorial on making art maps out of laser cut plywood, for example,teaches you about how to work with Scalable Vector Graphic (SVG) files, digital mapping resources, and how to produce an output file suitable for laser cutting. 
 
-[EXMAPLE IMAGE OF STUBBS ISLAND or SATURNA MAP]
+<img src="images/artmaps-introduction-02.png" style="width:100%;" alt="laser cut art map of Clayoquot or Stubbs Island"> 
 
+A laser cut art map of Clayoquot or Stubbs Island (Nuu-chah-nulth Territory) eel grass boundary (bottom layer), forshore (middle layer), and treed landscape (top layer). 
 
 ## Learning objectives
 
