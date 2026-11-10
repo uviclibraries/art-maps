@@ -3,7 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
 <img src="images/artmaps-logo-small.png" style="float:right;width:300px;" alt="circular image of laser cut map">
 
 # Make Art Maps
