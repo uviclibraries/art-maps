@@ -6,31 +6,50 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Make Art Maps
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
 
-## Why TOOL NAME HERE? 
+## What is an art map? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+An art map is a map that combines geospatial, or mapping, data and artistic interpretation. 
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+A pictoral map, for example, is a type of an art map that emphasizes artistic impression over location precision. 
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+[EXAMPLE OF PICTORAL MAP: https://en.wikipedia.org/wiki/Pictorial_map#/media/File:The_Man_of_Commerce_-_Anthropomorphic_map.png]
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+## Why make art maps?
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+Making art maps is a fun way to combine geospatial information and creative practices. 
 
-At the end of this workshop, you will be able to:
+Depending on how you make them, art maps can teach us to see and use geospatial tools and related technologies in new ways. 
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+This workshop's tutorial on making art maps out of laser cut plywood, for example,teaches you about how to work with Scalable Vector Graphic (SVG) files, digital mapping resources, and how to produce an output file suitable for laser cutting. 
+
+[EXMAPLE IMAGE OF STUBBS ISLAND or SATURNA MAP]
+
+
+## Learning objectives
+
+In this workshop, you will **learn about the following:** 
+- different kinds of art maps
+- some of the tools and options to choose from when making your own art map
+- Inkscape: a free, cross-platform image editing program
+- laser cutting (if you complete the laser cutting module)
+
+In this workshop, you will **learn to do the following:** 
+- identify the differences between accurate geospatial maps and art maps 
+- use Inkscape to create and edit an SVG file from a digital image
+- create an SVG image file suitable for laser cutting at the DSC (laser cutting module)
+- choose the appropriate types of plywood for your laser cut art map (laser cutting module)
+
+## Choose your art map options
+
+In the coming years, we intend to create modules on making art maps in a variety of ways, from analogue and digital collage to 3D printing, and other creative options. 
+
+To get our art map workshop modules started, we offer a module on making laser cut maps—a process we get asked about regularly. 
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
