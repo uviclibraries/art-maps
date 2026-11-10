@@ -27,7 +27,7 @@ Making art maps is a fun way to combine geospatial information and creative prac
 
 Depending on how you make them, art maps can teach us to see and use geospatial tools and related technologies in new ways. 
 
-This workshop's tutorial on making art maps out of laser cut plywood, for example,teaches you about how to work with Scalable Vector Graphic (SVG) files, digital mapping resources, and how to produce an output file suitable for laser cutting. 
+This workshop's module on making art maps out of laser cut plywood, for example,teaches you about how to work with Scalable Vector Graphic (SVG) files, digital mapping resources, and how to produce an output file suitable for laser cutting. 
 
 <img src="images/artmaps-introduction-02.png" style="width:100%;" alt="laser cut art map of Clayoquot or Stubbs Island"> 
 
