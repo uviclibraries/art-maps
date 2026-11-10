@@ -18,8 +18,9 @@ An art map is a map that combines geospatial, or mapping, data and artistic inte
 
 A pictoral map, for example, is a type of an art map that emphasizes artistic impression over location precision. 
 
-[EXAMPLE OF PICTORAL MAP: https://en.wikipedia.org/wiki/Pictorial_map#/media/File:The_Man_of_Commerce_-_Anthropomorphic_map.png]
+<img src="images/artmaps-introduction-01.png" style="width:100%;" alt="vein anatmoy figure over map of North America"> 
 
+Image by Augustus F. McKay, http://www.wdl.org/en/item/6770/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=27470915
 
 ## Why make art maps?
 
