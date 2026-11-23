@@ -3,14 +3,16 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **UPDATE** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+## Pre-Workshop Videos & Activities
+Becasue this workshop has modules, pre-workshop activities vary. 
 
-**UPDATE BELOW: 5-10 minutes.**<br>
-- OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
-            -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
-            -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
+### For all workshops
+- OPTIONAL: review and hopefully be inspired by [Artistic Map-Making: Reawakening Our Sense of Place and Planet](https://www.youtube.com/watch?v=gmZNOssqDaM), by Molly Holmberg Brown (14 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmZNOssqDaM?si=sZ-Q3XZ0J6S3cnF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Laser cutting art maps
+- familiarize yourself with how to submit laser cutting jobs to the Digital Scholarship Commons. See Laser [Cutting & Engraving Services at UVic Libraries: How To Laser Cut](https://libguides.uvic.ca/laser) for details (~10 min reading)
+- install [Inkscape](https://inkscape.org/release/inkscape-1.4.4/), a no-cost scalable vector graphics (SVG) creation and editing desktop/laptop software.
+> **NOTE** that if you are using a UVic-administered machine, e.g. a work laptop, you will require UVic Systems to install Inkscape for you. Email helpdesk@uvic.ca to request this service. 
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
