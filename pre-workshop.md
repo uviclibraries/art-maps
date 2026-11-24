@@ -13,12 +13,12 @@ OPTIONAL: review and hopefully be inspired by [Artistic Map-Making: Reawakening 
 
 ## For the Laser Cutting Art Maps module
 
-Laser cutting art maps requires that you (1) create your map in Inkscape (a no-cost, scalable vector graphics (SVG) creation and editing desktop/laptop software), and (2) get the Digital Scholarship Commons (DSC) to cut your map pieces, so please review the following: 
+Laser cutting art maps requires that you (1) create your map in Inkscape (a no-cost, scalable vector graphics (SVG) creation and editing desktop/laptop software), and (2) get the Digital Scholarship Commons (DSC) to cut your map pieces, so **please review the following:** 
 
-- familiarize yourself with how to submit laser cutting jobs to DSC: [Cutting & Engraving Services at UVic Libraries: How To Laser Cut](https://libguides.uvic.ca/laser) (~10 min reading)
-- OPTIONAL: especially for Inkscape beginners, review this video _before_ intalling Inkscape: 
+- **review how to submit laser cutting jobs to DSC:** [Cutting & Engraving Services at UVic Libraries: How To Laser Cut](https://libguides.uvic.ca/laser) (~10 min reading)
+- OPTIONAL: especially **for Inkscape beginners, review this video _before_ intalling Inkscape:** 
 [How To Setup Inkscape (2026 Easy Guide)](https://www.youtube.com/watch?v=Ts4Z1TR4We0)
-- install [Inkscape](https://inkscape.org/release/inkscape-1.4.4/)
+- **install [Inkscape](https://inkscape.org/release/inkscape-1.4.4/)**
 
     > **NOTE** that if you are using a UVic-administered machine, e.g. a work laptop, you will require UVic Systems to install Inkscape for you. Email helpdesk@uvic.ca to request this service.
 
